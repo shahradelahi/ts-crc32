@@ -1,6 +1,6 @@
 {
   "name": "@se-oss/crc32",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A high-performance, dependency-free library for calculating CRC32 and CRC32C checksums in TypeScript.",
   "keywords": [
     "crc",
